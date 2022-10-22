@@ -6,15 +6,7 @@ Knowledge of Basic HTML
 
 boilerplate:
 headings:
-
-unorder list: 
-<ul><li></li></ul>
-
+unorder list:
 order list: 
-<ol><li></li></ol>
-
 link: 
-<a href=""></a>
-
-image link
-<img src="link" alt="description">
+image link:
